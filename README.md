@@ -26,3 +26,5 @@ Fica em aberto sugestões de melhoria e ideais, caso você se interesse pelo pro
 - [Linkedin - Guilherme Portugal](https://www.linkedin.com/in/guilhptg/)
 
 ---
+
+[Img](img=/assets/img/capa_projeto.png)
