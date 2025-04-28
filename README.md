@@ -19,6 +19,8 @@ You'll need python version 7+.
 - WebChromeDrive
 
 ---
+Automação para emitir Notas Ficais Eletronicas à partir de um arquivo base .xml onde tem os registros de pretação de serviços. Após pegar cada serviço o script tranforma cada nota em um arquivo .pdf
+
 ---
 ### Resoult:
 Access the main file to check the code [here.](https://github.com/guilhptg/EmissaoNotasFiscais/blob/main/auto_issue_invoices.ipynb)
